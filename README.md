@@ -1,2 +1,2 @@
-# Estimation of pi and e via Monte Carlo
+# Estimation of $\pi$ and $e$ via Monte Carlo
 This project applies an object-orientation approach to estimate Pi (3.14159...) and e (2.71828...) via the method of Monte Carlo. The former number is estimated via the "Dart Board Method" (see http://mathfaculty.fullerton.edu/mathews/n2003/montecarlopimod.html for more information), and the latter is estimated via a method which involves the generation of U(0,1) random variates and subsequently summing them until this sum becomes greater than 1 (see http://www.jstor.org/stable/2685243?seq=1#page_scan_tab_contents for more information).
